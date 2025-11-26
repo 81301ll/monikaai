@@ -1,0 +1,13 @@
+{
+  "name": "monika-cai-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for Character.AI to Roblox",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.8" 
+  }
+}
